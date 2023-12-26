@@ -1,0 +1,29 @@
+.navbar{
+    width: 100vw;
+    height: 7vh;
+    background-color: black;
+}
+.innerElement{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+.routes{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2vmax;
+    align-items: center;
+    width: 15vw;
+}
+.body{
+    height: 93vh;
+    width: 100vw;
+    font-size: 3vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(32, 29, 29);
+}
